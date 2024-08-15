@@ -10,10 +10,5 @@
 
 ### About me:
 
-- I'm a **Software/Systems Engineer**. I have around **one year** of experience in the software industry.
-- Aspiring to become a **Full-stack** Developer with rich **DevOps** skills.
-- Skills: **Python**, **JavaScript**, **Git/GitHub**, **Docker**, **Linux**, **Shell Scripting**, **DevOps**, **RESTful Design**.
-- Learning: **AWS**, **ReactJS**, **Terraform**, **Jenkins**.
-- I also have a strong hold on **DSA**.
-- I always followed and loved "**bottom-up**" style of learning!
+- I'm a **Software Engineer**. Skilled in Java/Spring Boot, Python, ReactJS, SQL, Relational DBs, MongoDB, Azure Cloud. 
 
